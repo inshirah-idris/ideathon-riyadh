@@ -1,13 +1,13 @@
-# Team-06
+![image](https://github.com/FG-AI4H/ideathon-riyadh/assets/101634474/5315e34a-6696-44ba-807b-39be7912aa6b)# Team-06
 
 ## Area
 Digital Health Innovation
 
 ## Topic
-Elderly Care App
+Memory Echoes App
 
 ## Description
-An application that help elderly in their daily life, and their health issues. Farther, it help them to connect with volunteer. 
+An application that helps in the early detection of Alzheimer's disease and provides support for diagnosed patients and their families.
 
 ## Team Members
 - Taqwa Ahmed
